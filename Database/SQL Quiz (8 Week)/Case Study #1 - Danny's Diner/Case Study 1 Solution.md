@@ -14,7 +14,8 @@ ORDER BY amount_spent DESC;
 ```
   
 ###  Screenshot
-![alt text](image.png )
+<img width="293" height="117" alt="image" src="https://github.com/user-attachments/assets/6a373f71-8c8a-4cc0-8a54-8231a566e20e" />
+
   
   
 ---
@@ -31,7 +32,8 @@ GROUP BY customer_id;
 ```
   
 ###  Screenshot
-![alt text](image-2.png )
+<img width="267" height="118" alt="image" src="https://github.com/user-attachments/assets/125329e5-1abb-4536-9ad2-66607377cda8" />
+
   
 ---
   
@@ -51,7 +53,8 @@ LIMIT 3;
 ```
   
 ###  Screenshot
-![alt text](image-3.png )
+<img width="415" height="124" alt="image" src="https://github.com/user-attachments/assets/345a866c-c9b8-455f-868d-f03f2a7c1e96" />
+
   
 ---
   
@@ -71,7 +74,8 @@ LIMIT 1;
 ```
   
 ### Screenshot
-![alt text](image-4.png )
+<img width="254" height="73" alt="image" src="https://github.com/user-attachments/assets/a785c0ee-36f4-4ae4-8424-b31b4a7efc40" />
+
   
 ---
   
@@ -100,7 +104,8 @@ ORDER BY customer_id;
 ```
   
 ### Screenshot
-![alt text](image-5.png )
+<img width="405" height="166" alt="image" src="https://github.com/user-attachments/assets/7a0b7b38-a54d-40f7-a487-ca58fce69a99" />
+
   
 ---
   
@@ -129,7 +134,8 @@ WHERE row_num = 1;
 ```
   
 ### Screenshot
-![alt text](image-6.png )
+<img width="335" height="97" alt="image" src="https://github.com/user-attachments/assets/42d63f8e-bb37-406f-9dd4-126e14af07d5" />
+
   
 ---
   
@@ -158,7 +164,8 @@ WHERE row_num = 1;
 ```
   
 ###  Screenshot
-![alt text](image-7.png )
+<img width="330" height="104" alt="image" src="https://github.com/user-attachments/assets/5821b1ff-78b4-4475-8535-41ff78a753a9" />
+
   
 ---
   
@@ -185,7 +192,8 @@ GROUP BY cte.customer_id;
 ```
   
 ### Screenshot
-![alt text](image-9.png )
+<img width="371" height="96" alt="image" src="https://github.com/user-attachments/assets/5f34f025-10e2-4f57-9e7c-cc2f368e78fa" />
+
   
 ---
   
@@ -211,7 +219,8 @@ GROUP BY s.customer_id;
 ```
   
 ### Screenshot
-![alt text](image-10.png )
+<img width="290" height="119" alt="image" src="https://github.com/user-attachments/assets/67cfa5d3-8eb9-468c-86df-a74eedb4486c" />
+
   
 ---
   
@@ -248,6 +257,7 @@ ORDER BY customer_id;
 ```
   
 ###  Screenshot
-![alt text](image-11.png )
+<img width="280" height="92" alt="image" src="https://github.com/user-attachments/assets/11497f40-3951-4802-b943-cd7746079818" />
+
   
   
