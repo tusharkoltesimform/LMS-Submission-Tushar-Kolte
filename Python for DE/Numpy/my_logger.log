@@ -1,0 +1,24 @@
+2026-03-11 08:54:14,058 - my_logger - INFO - Started the numpy assignment
+2026-03-11 08:54:14,076 - my_logger - INFO - imported the csv into dataframe
+2026-03-11 08:54:14,100 - my_logger - INFO - shape of the dataframe(100, 7)
+2026-03-11 08:54:14,114 - my_logger - INFO - columns of the dataframeIndex(['Employee_ID', 'Name', 'Age', 'Department', 'Salary', 'Joining_Date',
+       'Resigned'],
+      dtype='object')
+2026-03-11 08:54:14,127 - my_logger - INFO - number of null values in each columnEmployee_ID      0
+Name             0
+Age             16
+Department       0
+Salary           8
+Joining_Date     0
+Resigned         0
+dtype: int64
+2026-03-11 08:54:14,138 - my_logger - INFO - filled the null values in age column with median
+2026-03-11 08:54:14,186 - my_logger - INFO - filled the null values in salary column with mean
+2026-03-11 08:54:14,251 - my_logger - INFO - dropped the duplicate values
+2026-03-11 08:54:14,267 - my_logger - INFO - renamed column into lowercase
+2026-03-11 08:54:14,293 - my_logger - INFO - Typecasted the columns datatype
+2026-03-11 08:54:14,359 - my_logger - INFO - Rows after filtering 1 is: (49, 7)
+2026-03-11 08:54:14,402 - my_logger - INFO - Added column years_in_comppany via timetstamp - joining date
+2026-03-11 08:54:14,434 - my_logger - INFO - Computed department-level statistics including average salary and median age.
+2026-03-11 08:54:14,479 - my_logger - INFO - it depertment got 10 percent increment
+2026-03-11 08:54:14,591 - my_logger - INFO - exported the data to json and the row count is(100, 6)
