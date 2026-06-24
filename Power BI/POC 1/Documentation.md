@@ -35,6 +35,7 @@ The Sales Overview page provides a high-level summary of business performance.
 ### Filters
 - Year
 - Segment
+<img width="1497" height="858" alt="image" src="https://github.com/user-attachments/assets/ad0c78d6-f841-490c-928c-f67abb4ebf2f" />
 
 
 ---
@@ -55,6 +56,7 @@ This page focuses on sales and profit trends over time.
 - Top 5 Sub-Categories by Sales
 - Top 5 Sub-Categories by Profit
 - Monthly Sales vs Profit Comparison
+<img width="1563" height="861" alt="image" src="https://github.com/user-attachments/assets/b9e183b6-ede0-482f-95ef-7b621ba64878" />
 
 ---
 
@@ -72,6 +74,7 @@ Analyzes customer behavior and retention patterns.
 - Customer Age Distribution
 - Top Customers by Sales
 - Orders by Ship Mode
+<img width="1521" height="845" alt="image" src="https://github.com/user-attachments/assets/356673fa-0557-42f6-bf0d-fa2c748535f5" />
 
 ---
 
@@ -89,6 +92,7 @@ Analyzes the effect of discounts on business performance.
 - Key Influencers for Sales
 - What-If Analysis for Profit Growth
 - Profit Projection based on Sales Increase %
+<img width="1523" height="861" alt="image" src="https://github.com/user-attachments/assets/49094190-35cf-4d80-8eec-6dc490d421e9" />
 
 ---
 

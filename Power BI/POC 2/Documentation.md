@@ -20,6 +20,8 @@ Tracks the health of the customer base across segments, age groups, and demograp
 | Total Customers · Churn Rate · Engagement Score | Monthly Churn Rate over Time |
 | CLV · High Income Customers | Customers by Age Group |
 | | Customers by Segment · Gender Breakdown |
+<img width="1422" height="805" alt="image" src="https://github.com/user-attachments/assets/01ff908b-7357-4f34-b118-b2125495db62" />
+
 
 ### Page 2 — Transaction Analysis
 Breaks down revenue, profit, and volume across time, products, regions, and categories.
@@ -29,6 +31,8 @@ Breaks down revenue, profit, and volume across time, products, regions, and cate
 | Revenue · Profit · Quantity Sold | MonthWise Sales / Profit / Quantity |
 | Avg Sales per Transaction | Product Wise · Region Wise breakdown |
 | Product Personalization Rate | Product Category breakdown |
+<img width="1418" height="798" alt="image" src="https://github.com/user-attachments/assets/a6546674-f8c5-40ac-ac1b-5e80319f7bd3" />
+
 
 ### Page 3 — Campaign & Feedback Insights
 Evaluates campaign ROI, conversion trends, and the relationship between customer feedback and retention.
@@ -38,6 +42,8 @@ Evaluates campaign ROI, conversion trends, and the relationship between customer
 | Total Campaigns · Customer Retention Rate | MonthWise Conversion Rate |
 | Customer Frequency · CAC | ROI by Marketing Channel |
 | Conversion Rate | Feedback Score vs Retention Rate · Campaign Type Distribution |
+<img width="1359" height="799" alt="image" src="https://github.com/user-attachments/assets/49162c2a-e096-4252-ba91-a67d099278f4" />
+
 
 ---
 
