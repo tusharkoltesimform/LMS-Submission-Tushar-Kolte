@@ -1,4 +1,4 @@
-# Transaction Monitoring & Fraud Detection POC
+# POC - Card Transactions
 
 A data engineering system built on **Microsoft Fabric** and **Azure** — ingesting batch and real-time transaction data, processing it through a Medallion Architecture, detecting fraud with a 5-rule composable engine, and serving a branch-secured Power BI dashboard.
 
