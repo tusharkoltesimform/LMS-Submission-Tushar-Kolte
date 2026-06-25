@@ -8,7 +8,7 @@ A data engineering system built on **Microsoft Fabric** and **Azure** — ingest
 
 ## Architecture
 
-![Architecture Diagram](./architecture.png)
+<img width="1672" height="941" alt="poc architecture" src="https://github.com/user-attachments/assets/4d5dd43b-4863-4ad0-88b1-0bcf2fa38f9b" />
 
 ---
 
