@@ -1,6 +1,9 @@
 # POC - Documentation
 
 > An end-to-end data engineering system that ingests transactional data from Azure sources, processes it through a Medallion Architecture on Microsoft Fabric, applies a 5-rule fraud detection engine, and serves results to a Power BI dashboard with branch-level Row-Level Security.
+
+- [Link to POC Presentation](#[https://poc.tusharkolte.com/])
+- 
 <img width="1672" height="941" alt="poc architecture" src="https://github.com/user-attachments/assets/863debba-16cd-473e-a4bf-894b768c5749" />
 
 ---
