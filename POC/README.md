@@ -17,8 +17,7 @@
 - [Security & Governance](#security--governance)
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Resource Naming](#resource-naming)
-- [Known Limitations](#known-limitations)
-- [Reset Procedure](#reset-procedure)
+
 
 ---
 
